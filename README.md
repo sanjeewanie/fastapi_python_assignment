@@ -22,5 +22,5 @@ If it is localhost then you can access line below.
 >http://localhost:8000/docs
 
 else 
->ip:8000/docs 
+>http://ip:8000/docs 
 
