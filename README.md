@@ -18,5 +18,9 @@ Run the Container
 >docker run -p 8000:8000 --name fastapi-v1.0 fastapi
 
 Once it up and run the server you can perform api calls using  below with swagger client
->http://127.0.0.1:8000/
+If it is localhost then you can access line below.
+>http://localhost:8000/docs
+
+else 
+>ip:8000/docs 
 
