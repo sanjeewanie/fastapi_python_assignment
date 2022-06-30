@@ -5,8 +5,8 @@ Restfull API Using Flaskapi framework
 -------
 
 Prerequisite
->1.Docker deaman run in the system. 
->2.Python and pip is installed.
+1.Docker deaman run in the system. 
+2.Python and pip is installed.
 
 #How to run the Programme 
 >Go to the project root directory and run below command
